@@ -20,6 +20,8 @@ You can view the brief here :
 
 ## Visuals
 
+<img width="1791" alt="Screen Shot 2021-10-03 at 11 34 46 PM" src="https://user-images.githubusercontent.com/78562158/135789251-77d42201-450d-4789-ba7d-9e54f110742c.png">
+
 
 # License
 MIT License
