@@ -16,7 +16,7 @@
 - NODE.JS
 
 ## Link
-You can view the brief here : 
+You can view the brief here : https://wilsonsous.github.io/weather-dashboard/
 
 ## Visuals
 
