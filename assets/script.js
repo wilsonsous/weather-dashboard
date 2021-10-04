@@ -109,7 +109,7 @@ $(document).ready(function () {
                 uvIndexEl.attr('style', `background-color: ${uvColor}; color: ${uvColor === "yellow" ? "black" : "white"}`);
                 let fiveDay = response.daily;
 
-                // Display 5 day forecast in DOM elements
+                // Display 5 day forecast
                 for (let i = 0; i <= 5; i++) {
                     let currDay = fiveDay[i];
                     $(`div.day-${i} .card-title`).text(moment.unix(currDay.dt).format('L'));
