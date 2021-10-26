@@ -13,6 +13,8 @@
 - HTML
 - CSS
 - JAVASCRIPT
+- JQuery
+- Third-party APIs
 
 ## Link
 You can view the brief here : https://wilsonsous.github.io/weather-dashboard/
